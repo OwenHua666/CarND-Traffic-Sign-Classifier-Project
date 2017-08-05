@@ -15,14 +15,18 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
+[image1]: ./Writeup_Images/image1.JPG "Visualization1"
+[image2]: ./Writeup_Images/image2.JPG "Visualization2"
+[image3]: ./Writeup_Images/image3.JPG "Visualization3"
+[image4]: ./Writeup_Images/image4.JPG "Visualization4"
+[image5]: ./Writeup_Images/image5.JPG "Visualization5"
 [image6]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image7]: ./Writeup_Images/image7.JPG "Visualization5"
+[image8]: ./Writeup_Images/image8.JPG "Visualization5"
+[image9]: ./Writeup_Images/image9.JPG "Visualization5"
+[image10]: ./Writeup_Images/image10.JPG "Visualization5"
+[image11]: ./Writeup_Images/image11.JPG "Visualization5"
+
 
 ### Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
